@@ -1,10 +1,9 @@
-### Hi there 👋
+<h2 align="center"> Hello there! My name is Aniket Kumar Pandey. 👋</h2>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=meet-aniket.meet-aniket)
 [![Github](https://img.shields.io/github/followers/meet-aniket?label=Follow&style=social)](https://github.com/meet-aniket)  
 
 <p align="justify">
-I am Aniket Kumar Pandey,
 Enterprise JS Dev @ Hotwax Systems || E-commerce || Vue Storefront 💚 || Shopify Dev || Open Source Enthusiast || Vue && React ⚛️ Developer || Node Architect
 </p>
 
