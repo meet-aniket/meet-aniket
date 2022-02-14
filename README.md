@@ -4,7 +4,7 @@
 [![Github](https://img.shields.io/github/followers/meet-aniket?label=Follow&style=social)](https://github.com/meet-aniket)  
 
 <p align="justify">
-Enterprise JS Dev @ Hotwax Systems || E-commerce || Vue Storefront 💚 || Shopify Dev || Open Source Enthusiast || Vue && React ⚛️ Developer || Node Architect
+Enterprise JS Dev @ Hotwax Systems || E-commerce || Vue Storefront 💚 || Open Source Enthusiast || Vue && React ⚛️ Developer || Node Architect
 </p>
 
 
