@@ -11,3 +11,5 @@ Enterprise JS Dev @ Hotwax Systems || E-commerce || Vue Storefront 💚 || Open 
 ![Aniket's Github Stats](https://github-readme-stats.vercel.app/api?username=meet-aniket&show_icons=true)  
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meet-aniket) -->
+
+![Aniket's Github Stats](https://github-readme-stats.vercel.app/api?username=meet-aniket&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meet-aniket)
