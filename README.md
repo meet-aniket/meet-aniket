@@ -7,11 +7,13 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=meet-aniket.meet-aniket)
 [![Github](https://img.shields.io/github/followers/meet-aniket?label=Follow&style=social)](https://github.com/meet-aniket)  
 
+
+
+<div align="left">
+
 <p align="justify">
 Enterprise JS Dev @ Hotwax Systems || E-commerce || Open Source Enthusiast || Vue && React ⚛️ Developer || NodeJS Developer
 </p>
-
-<div align="left">
 
 ![Aniket's Github Stats](https://github-readme-stats.vercel.app/api?username=meet-aniket&show_icons=true&hide_border=false)
 
