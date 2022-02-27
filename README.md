@@ -11,8 +11,11 @@
 Enterprise JS Dev @ Hotwax Systems || E-commerce || Open Source Enthusiast || Vue && React ⚛️ Developer || NodeJS Developer
 </p>
 
+<div align="left">
+
 ![Aniket's Github Stats](https://github-readme-stats.vercel.app/api?username=meet-aniket&show_icons=true&hide_border=false)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meet-aniket) -->
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=meet-aniket&show_icons=true&hide_border=false)
+</div>
