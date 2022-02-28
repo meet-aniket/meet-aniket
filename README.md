@@ -1,5 +1,3 @@
-[![image](https://user-images.githubusercontent.com/52008359/155978613-9c08e42b-fe5a-401e-90a2-b303d67d7f40.png)](https://github.com/meet-aniket)
-
 # <h1 align="left">Hey, <img src="https://github.com/meet-aniket/meet-aniket/blob/main/Assets/Hi.gif" width="29px"> I'm [Aniket Kumar Pandey](https://www.linkedin.com/in/meet-aniket/)</h1>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=meet-aniket.meet-aniket)
