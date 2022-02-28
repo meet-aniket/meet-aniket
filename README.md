@@ -1,6 +1,6 @@
 [![image](https://user-images.githubusercontent.com/52008359/155927922-e57e3aec-d441-4286-84ab-7009f66928f2.png)](https://github.com/meet-aniket)
 
-# <h1 align="left">Hey, <img src="https://github.com/meet-aniket/meet-aniket/blob/main/Assets/Hi.gif" width="29px"> I'm [Aniket Pandey](https://www.linkedin.com/in/meet-aniket/)</h1>
+# <h1 align="left">Hey, <img src="https://github.com/meet-aniket/meet-aniket/blob/main/Assets/Hi.gif" width="29px"> I'm [Aniket Kumar Pandey](https://www.linkedin.com/in/meet-aniket/)</h1>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=meet-aniket.meet-aniket)
 [![Github](https://img.shields.io/github/followers/meet-aniket?label=Follow&style=social)](https://github.com/meet-aniket)  
