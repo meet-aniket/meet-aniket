@@ -8,7 +8,7 @@
 <b> Enterprise JS Dev @ Hotwax Systems || E-commerce || Open Source Enthusiast || Vue && React ⚛️ Developer || NodeJS Developer </b>
 
 <!-- </br> -->
-Worked on multiple open-source projects of Hotwax Systems, contributed thousands of lines of code with all best practices 
+Worked on multiple open-source projects of Hotwax Systems, contributed thousands of lines of code with all the best practices 
 of JavaScript and TypeScript and delivered the best possible solution for each and every problem...
 </br>
 
