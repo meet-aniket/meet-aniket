@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/meet-aniket/meet-aniket/blob/main/Assets/Hi.gif" width="29px"> I'm Aniket Pandey
+## Hey <img src="https://github.com/meet-aniket/meet-aniket/blob/main/Assets/Hi.gif" width="25" height="25"> I'm Aniket Pandey
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=meet-aniket.meet-aniket)  
 
