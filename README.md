@@ -11,6 +11,6 @@ Worked on multiple open-source projects of [Hotwax Systems](https://www.hotwaxsy
 
 ![Aniket's Github Stats](https://github-readme-stats.vercel.app/api?username=meet-aniket&show_icons=true&hide_border=false)
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meet-aniket) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meet-aniket)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=meet-aniket&show_icons=true&hide_border=false)
