@@ -7,6 +7,7 @@
 <b> Digital Specialist Engineer @ [Infosys](https://github.com/Infosys/) || E-commerce || Open Source Enthusiast || Java Spring Microservices || Angular && Vue || NodeJS </b>
 
 Worked on various open-source projects of [Hotwax Commerce](https://github.com/hotwax/), built best possible solutions for retail ecommerce businesses using JavaScript and TypeScript. Working as a Full Stack Java-Angular Developer at @ [Infosys](https://github.com/Infosys/).
+</br>
 
 ![Aniket's Github Stats](https://github-readme-stats.vercel.app/api?username=meet-aniket&show_icons=true&hide_border=false)
 
