@@ -13,4 +13,4 @@ Worked on various open-source projects of [Hotwax Commerce](https://github.com/h
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meet-aniket) -->
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=meet-aniket&show_icons=true&hide_border=false)
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=meet-aniket&show_icons=true&hide_border=false) -->
